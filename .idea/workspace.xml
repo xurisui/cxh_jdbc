@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1ae865e-0e36-4cc5-b586-ace6588cc2d1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cxh_jdbc.iws" />
@@ -857,7 +858,7 @@
       <workItem from="1488603487287" duration="244000" />
       <workItem from="1488607795776" duration="139000" />
       <workItem from="1488609979390" duration="16000" />
-      <workItem from="1488694808795" duration="81000" />
+      <workItem from="1488694808795" duration="291000" />
     </task>
     <servers />
   </component>
@@ -894,7 +895,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15026000" />
+    <option name="totallyTimeSpent" value="15236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
